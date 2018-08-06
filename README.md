@@ -1,0 +1,2 @@
+# SpringHibernateTemplate
+SpringHibernateTemplate test project.
